@@ -33,6 +33,10 @@ Security Groups
 🛡️ Security Configurations
 Web tier is open to HTTP/HTTPS traffic
 
+![Architecture Diagram](https://github.com/uniqueluck/Three-Tier-VPC-Project/blob/main/instance.png)
+
+
+
 App tier only allows traffic from Web tier security group
 
 DB tier only allows traffic from App tier
