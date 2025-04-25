@@ -47,7 +47,10 @@ No direct internet access to App and DB tiers (uses NAT for outbound)
 ![Architecture Diagram](https://github.com/uniqueluck/Three-Tier-VPC-Project/blob/main/rout_table.png)
 ![Architecture Diagram](https://github.com/uniqueluck/Three-Tier-VPC-Project/blob/main/done.png)
 
+## 🙌 Thank You!
 
+Thanks for checking out this project! If you have any suggestions or feedback, feel free to connect with me.
 
-
-![Architecture Diagram](https://github.com/uniqueluck/Three-Tier-VPC-Project/blob/main/instance.png)
+**Author**: Bhagyashri Bobade  
+📧 Email:bhagyashribobade979@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/bhagyashribobade/  
