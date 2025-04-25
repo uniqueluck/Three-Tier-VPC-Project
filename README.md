@@ -40,11 +40,23 @@ DB tier only allows traffic from App tier
 
 No direct internet access to App and DB tiers (uses NAT for outbound)
 
+
+
 ![Architecture Diagram](https://github.com/uniqueluck/Three-Tier-VPC-Project/blob/main/instance.png)
+
+
 ![Architecture Diagram](https://github.com/uniqueluck/Three-Tier-VPC-Project/blob/main/vpc.png)
+
+
 ![Architecture Diagram](https://github.com/uniqueluck/Three-Tier-VPC-Project/blob/main/subnets.png)
+
+
 ![Architecture Diagram](https://github.com/uniqueluck/Three-Tier-VPC-Project/blob/main/igw.png)
+
+
 ![Architecture Diagram](https://github.com/uniqueluck/Three-Tier-VPC-Project/blob/main/rout_table.png)
+
+
 ![Architecture Diagram](https://github.com/uniqueluck/Three-Tier-VPC-Project/blob/main/done.png)
 
 ## 🙌 Thank You!
